@@ -1,0 +1,17 @@
+<html>
+    <head>
+        <script src="Dropdown.js"></script>
+        <link rel="stylesheet" type="text/css" href="Dropdown.css">
+    </head>
+    <body>
+        <form>
+            <input type="text" id="input1">
+            <input type="text" id="input2">
+        </form>
+    </body>
+    <script>
+        var data = ["Option1","Option2","Option3"]
+        var dropdown = new Dropdown(document.getElementById("input1"), data)
+        var dropdown2 = new Dropdown(document.getElementById("input2"), data)
+    </script>
+</html>

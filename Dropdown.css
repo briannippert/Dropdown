@@ -1,0 +1,12 @@
+.invalid
+{
+
+border-color: #d9534f;
+color: #d9534f
+}
+.valid{
+    border: inherit    
+}
+.invalid:focus{
+outline-color: #d9534f
+}
