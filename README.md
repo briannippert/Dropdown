@@ -1,3 +1,3 @@
 # Dropdown
 
-Searchable dropdown menu created with vinilla Javascript
+Searchable dropdown menu created with vanilla Javascript
